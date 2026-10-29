@@ -1,0 +1,30 @@
+{
+  "source_commit": "3b74aa7168ccf51e3b7f0da983b5a1d9b83629ba",
+  "source_tracked_files": 1339,
+  "original_application_and_asset_files": 228,
+  "original_dependencies_in_member_1_local_setup": 1110,
+  "excluded_runtime_logs": [
+    "storage/logs/chatbot.log"
+  ],
+  "duplicate_repository_paths": [],
+  "source_byte_hash_checks": "passed",
+  "original_database_byte_hash_check": "passed",
+  "schema_tables": 30,
+  "removed_database_insert_statements": 24,
+  "five_branches_from_common_base_merge": "passed; no conflicts",
+  "merged_repository_file_hashes": "passed",
+  "php_mysql_runtime_test": "not run; runtime not available",
+  "member_repository_file_counts": {
+    "1": 28,
+    "2": 170,
+    "3": 6,
+    "4": 7,
+    "5": 21
+  },
+  "repaired_member_1_package": {
+    "repository_files": 28,
+    "bundled_vendor": "omitted; composer install after integration",
+    "source_code_changes": false,
+    "other_member_parts_changed": false
+  }
+}
